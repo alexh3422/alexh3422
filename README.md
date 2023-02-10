@@ -1,6 +1,6 @@
 # Alex Hall
   
-About Me
+
   
 I am currently enrolled in the University of Washington's Coding Bootcamp
 
