@@ -1,8 +1,9 @@
 # Alex Hall
   
-##About Me
+About Me
   
 I am currently enrolled in the University of Washington's Coding Bootcamp
+
 I am excited to combine my passion of technology with my career!
 
 
