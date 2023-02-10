@@ -1,5 +1,6 @@
-# Alex Hall
-  
+
+  ![03 - Primer](https://user-images.githubusercontent.com/115325648/218060089-7f74af5c-fe63-4eb3-9b28-ae3726d211e6.png)
+
 
   
 I am currently enrolled in the University of Washington's Coding Bootcamp
