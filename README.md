@@ -4,7 +4,7 @@
 
 
   
-I am currently enrolled in the University of Washington's Coding Bootcamp
+I am a recent graduate of the University of Washington's Full Stack Web Development course
 
 I am excited to combine my passion of technology with my career!
 
